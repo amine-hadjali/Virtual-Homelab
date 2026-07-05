@@ -1,0 +1,2 @@
+﻿New-ADGroup -Name "GG-Admins" -SamAccountName "GG-Admins" -GroupCategory Security -GroupScope Global -Path "OU=GROUPS,DC=lab,DC=local"
+New-ADGroup -Name "GG-Users" -SamAccountName "GG-Users" -GroupCategory Security -GroupScope Global -Path "OU=GROUPS,DC=lab,DC=local"
