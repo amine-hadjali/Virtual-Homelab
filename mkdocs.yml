@@ -1,0 +1,45 @@
+site_name: Virtual Homelab
+site_description: Enterprise homelab documentation
+site_author: Amine HADJALI
+repo_url: https://github.com/amine-hadjali/Virtual-Homelab
+repo_name: Virtual-Homelab
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/amine-hadjali
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/amine-hadjali/
+extra_css:
+  - Assets/extra.css
+theme:
+  name: material
+  logo: logo.png
+  favicon: logo.png
+  font:
+    text:
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep blue
+      accent: deep purple
+
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow

@@ -1,0 +1,6 @@
+# Conclusion
+This project successfully reproduced a small enterprise IT infrastructure within a virtualized homelab environment. It covered the deployment and administration of essential services including Active Directory, DNS, DHCP, Group Policy, file sharing, remote administration, firewall configuration with OPNsense, and infrastructure monitoring with Zabbix.
+
+Throughout the project, both graphical interfaces and PowerShell/Linux command-line tools were used, providing practical experience with real-world system administration tasks. The integration of centralized authentication, automated management, monitoring, alerting, and service supervision demonstrates how these technologies work together in a professional environment.
+
+Overall, this homelab provides a solid foundation for developing advanced skills in system administration, networking, and cybersecurity, while serving as a platform for experimenting new technologies and preparing for professional certifications and real-world IT scenarios.
